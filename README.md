@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date : 12-03-2025
-## Register Number : 212224040252
-## Name : PRIYADHARSHINI P
+## Register Number : 212224040231
+## Name : PANGA THANUJA
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
